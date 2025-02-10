@@ -29,11 +29,11 @@ const games = [
     color: 'bg-orange-500',
     description: 'Challenge friends to basketball',
     image: 'https://images.unsplash.com/photo-1546519638-68e109498ffc?auto=format&fit=crop&w=800&q=80'
-  }
+  },
    {
     title: 'Hole io',
     url: 'https://hole-io.com/',
-    color: 'bg-gray-500',
+    color: 'bg-yellow-500',
     description: 'Suck it up',
     image: 'https://hole-io.com/images/hole-share.jpg'
   }
