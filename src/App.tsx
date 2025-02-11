@@ -17,11 +17,11 @@ const games = [
     image: 'https://sporked.com/wp-content/uploads/2023/05/EXPLAINERS_SKITTLES_HEADER.jpg'
   },
   {
-    title: 'Soccer Stars',
-    url: 'https://soccerstarsgame.com',
+    title: 'Paper Io',
+    url: 'paper-io.com',
     color: 'bg-green-500',
     description: 'Score goals in this fun soccer challenge!',
-    image: 'https://images.unsplash.com/photo-1599392227522-038b00c0db44?auto=format&fit=crop&w=800&q=80'
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54SKeZuAbMoQRvGmp77nKPXgdv7kyJzovGw&s'
   },
   {
     title: 'Basketball Duel',
