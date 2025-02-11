@@ -4,7 +4,7 @@ import { Gamepad2, Star, ExternalLink } from 'lucide-react'; // Import icons
 const games = [
   {
     title: 'Retro Pong Arkanoid',
-    url: 'https://pong3.kc-media.com',
+    url: 'https://pong3.kc-media.dk',
     color: 'bg-purple-500',
     description: 'Classic Pong remixed with arkanoid',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQSLkLnZ8qXhIt7ciwvIxPmtdXM_KDnQFPVQ&s'
@@ -18,7 +18,7 @@ const games = [
   },
   {
     title: 'Paper Io',
-    url: 'paper-io.com',
+    url: 'https://paper-io.com',
     color: 'bg-green-500',
     description: 'Score goals in this fun soccer challenge!',
     image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR54SKeZuAbMoQRvGmp77nKPXgdv7kyJzovGw&s'
